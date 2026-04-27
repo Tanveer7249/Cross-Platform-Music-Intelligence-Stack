@@ -1,0 +1,16 @@
+platform,title,artist,popularity,duration_ms,explicit,release_date,chart_position
+Spotify,Cruel Summer,Taylor Swift,95,178426,False,2019-08-23,1
+Spotify,Blinding Lights,The Weeknd,93,200040,False,2019-11-29,2
+Spotify,HUMBLE.,Kendrick Lamar,89,177000,True,2017-04-14,3
+Spotify,Shape of You,Ed Sheeran,88,233712,False,2017-01-06,4
+Spotify,Bad Guy,Billie Eilish,90,194088,False,2019-03-29,5
+Spotify,God Did,Drake,87,558000,True,2022-06-17,6
+Spotify,As It Was,Harry Styles,92,167303,False,2022-04-01,7
+Spotify,Levitating,Dua Lipa,86,203064,False,2020-10-01,8
+Spotify,Stay,The Kid LAROI,84,141005,True,2021-07-09,9
+Spotify,Watermelon Sugar,Harry Styles,85,174000,False,2019-12-13,10
+Spotify,Anti-Hero,Taylor Swift,94,200690,False,2022-10-21,11
+Spotify,Flowers,Miley Cyrus,91,200455,False,2023-01-13,12
+Spotify,Unholy,Sam Smith,88,156943,True,2022-09-22,13
+Spotify,Calm Down,Rema,87,239013,False,2022-01-05,14
+Spotify,Midnight Rain,Taylor Swift,86,174249,False,2022-10-21,15
